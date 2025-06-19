@@ -6,7 +6,7 @@ output:
     toc_depth: 6
 ---
 
-# GitHub Account Customisations (`.github`)
+# GitHub Account Customisations (`.github`):
 
 1.	#### The Purpose Of The Repository:
 
